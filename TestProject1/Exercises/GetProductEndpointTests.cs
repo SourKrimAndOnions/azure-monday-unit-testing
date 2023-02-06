@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Clever.Firmware.Api.Endpoints.FirmwarePackages;
+namespace Exercises;
 public class GetProductEndpointTests
 {
     [Fact]
